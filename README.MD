@@ -9,7 +9,7 @@
 
   #### Output Format
 
-  * Print the following two lines of output:
+  Print the following two lines of output:
 
-  ** On the first line, print Hello, World!
-  ** On the second line, print the contents of variable
+  * On the first line, print Hello, World!
+  * On the second line, print the contents of variable
