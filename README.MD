@@ -2,7 +2,7 @@
 
 ## 10 Days of Javascript
 
-### Day zero Hello world
+### Day 0: Hello world
 
   * Use console.log() to print Hello, World! on a new line in the console, 
   which is also known as stdout or standard output.
